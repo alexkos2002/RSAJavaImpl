@@ -1,0 +1,2 @@
+4 Technical Solutions
+There are two strategies for dealing with the above difficulties: feature extraction and pattern.
